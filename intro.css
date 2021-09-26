@@ -107,7 +107,7 @@ img{
 }
 
 #home{
-    background-image: url(images/test-full.jpg);
+    background-image: url(test-full.jpg);
     min-height: 100vh;
 }
 
@@ -118,7 +118,7 @@ img{
 /*INFO
 --------------------------*/
 #intro{
-    background-image: url(images/test-full.jpg);
+    background-image: url(test-full.jpg);
     min-height: 80vh;
     margin-bottom: 40px;
 }
